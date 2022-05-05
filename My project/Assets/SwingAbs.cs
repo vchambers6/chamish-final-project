@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;  
 using UnityEngine;  
   
-public class Swing : MonoBehaviour  
+public class SwingAbs : MonoBehaviour  
 {  
     Vector3 Vec;  
     // Start is called before the first frame update  
@@ -14,10 +14,10 @@ public class Swing : MonoBehaviour
     // Update is called once per frame  
     void Update()  
     {  
-  
-        Vec = transform.localPosition;  
-        //Vec.x += Input.GetAxis("Horizontal") * Time.deltaTime * 20;
-        Vec.z += Input.GetAxis("Horizontal") * Time.deltaTime * 20;    
-        transform.localPosition = Vec;  
-    }  
+        if (Input.GetKey(KeyCode.Z)) {
+            Vec = transform.localPosition;  
+            Vec.z += Input.GetAxis("Horizontal") * Time.deltaTime * 20;    
+            transform.localPosition = Vec;  
+        }
+    }
 } 
