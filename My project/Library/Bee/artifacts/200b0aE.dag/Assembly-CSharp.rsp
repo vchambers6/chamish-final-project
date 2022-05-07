@@ -345,10 +345,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/FreezePosition.cs"
-"Assets/Knockback.cs"
-"Assets/SwingAbs.cs"
-"Assets/SwingFeet.cs"
+"Assets/Scripts/FreezePosition.cs"
+"Assets/Scripts/Knockback.cs"
+"Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/SwingAbs.cs"
+"Assets/Scripts/SwingFeet.cs"
 -langversion:9.0
 
 /deterministic
