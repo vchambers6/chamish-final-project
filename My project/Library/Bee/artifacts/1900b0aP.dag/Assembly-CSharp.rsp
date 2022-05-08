@@ -305,6 +305,8 @@
 "Assets/Scripts/FreezePosition.cs"
 "Assets/Scripts/Knockback.cs"
 "Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/Menu.cs"
+"Assets/Scripts/Reset.cs"
 "Assets/Scripts/SwingAbs.cs"
 "Assets/Scripts/SwingAll.cs"
 "Assets/Scripts/SwingFeet.cs"

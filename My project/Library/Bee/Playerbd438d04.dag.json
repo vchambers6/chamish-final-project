@@ -237,17 +237,6 @@
       "DebugActionIndex": 8
     },
     {
-      "Annotation": "CopyFiles Giants/My project_Data/level1.resS",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/PlayerDataCache/Win64/Data/level1.resS"
-      ],
-      "Outputs": [
-        "Giants/My project_Data/level1.resS"
-      ],
-      "DebugActionIndex": 9
-    },
-    {
       "Annotation": "CopyFiles Giants/My project_Data/sharedassets0.assets",
       "ActionType": "CopyFiles",
       "Inputs": [
@@ -255,6 +244,17 @@
       ],
       "Outputs": [
         "Giants/My project_Data/sharedassets0.assets"
+      ],
+      "DebugActionIndex": 9
+    },
+    {
+      "Annotation": "CopyFiles Giants/My project_Data/level0.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level0.resS"
+      ],
+      "Outputs": [
+        "Giants/My project_Data/level0.resS"
       ],
       "DebugActionIndex": 10
     },
