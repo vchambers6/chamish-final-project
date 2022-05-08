@@ -349,7 +349,9 @@
 "Assets/Scripts/Knockback.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/SwingAbs.cs"
+"Assets/Scripts/SwingAll.cs"
 "Assets/Scripts/SwingFeet.cs"
+"Assets/Scripts/SwingThighs.cs"
 -langversion:9.0
 
 /deterministic

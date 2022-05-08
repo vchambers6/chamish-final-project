@@ -14,7 +14,7 @@ public class SwingFeet : MonoBehaviour
     // Update is called once per frame  
     void Update()  
     {  
-        if (Input.GetKey(KeyCode.X)) {
+        if (Input.GetKey(KeyCode.C)) {
             Vec = transform.localPosition;  
             Vec.z += Input.GetAxis("Horizontal") * Time.deltaTime * 20;    
             transform.localPosition = Vec;  
