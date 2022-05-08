@@ -6,13 +6,6 @@ public class FreezePosition : MonoBehaviour
 {
     public GameObject TheThingToFreeze;
   	
-   //  public void	Start()
-   //  {
-   //  	if (Input.GetKeyDown(KeyCode.Space))
-   //  	{
-			// TheThingToFreeze.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;  
-   //  	}
-   //  }
     void Update()
     {
         if (Input.GetKeyDown("space"))
@@ -20,5 +13,5 @@ public class FreezePosition : MonoBehaviour
             TheThingToFreeze.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;  
         }
     }
-    
+ 
 }    
