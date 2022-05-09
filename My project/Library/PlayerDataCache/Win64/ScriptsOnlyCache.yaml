@@ -1028,4 +1028,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Main Menu.unity
   - Assets/Scenes/Giants.unity
   playerPath: /Users/JuliaKennish/Documents/Julia/Harvard/Junior/Spring/CS175/Final2/Untitled/My
-    project/Giants/My project.exe
+    project/Windows Build/Giants/My project.exe
