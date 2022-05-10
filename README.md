@@ -21,6 +21,6 @@ To find our Windows executable please navigate through this repo My Project > Wi
 
 To find our Mac executable please navigate through this repo My Project > Mac Build (on a mac this should appear as a single application)
 
-Some permissions may need to be bypassed in order to execute our project. We have tested the project on both Mac and Windows computers, please reach out to use if the code does not execute as indicated in the write-up.
+Some permissions may need to be bypassed in order to execute our project. We have tested the project on both Mac and Windows computers (and both execute as expected), please reach out to us if the code does not execute as indicated in the write-up.
 
 # We hope you enjoy playing!
